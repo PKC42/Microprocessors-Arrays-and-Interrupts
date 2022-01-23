@@ -2,8 +2,6 @@
 
 This assignment utlizes a PIC32MM microcontroller to carry out the instructions written in the provided source code. The assignment details are as follows:
 
-/*****
-  TODO:
   You must change this program so that:
     1. Create the following variables:
       array_s1 = [1,3,3,2];
@@ -17,6 +15,5 @@ This assignment utlizes a PIC32MM microcontroller to carry out the instructions 
        For example, since m1 is 2, which means 3 is the m1-th element (2nd) of array_s1. So LED1 should be turned on only when S1 is pressed 3 times.
        
     4. If S1 is pressed 4 times, LED1 blinks with period 0x0FFF and Prescaler 256.
-*****/
 
-In this program, a built in button on the PIC32MM and interrupts are used to iterate though an array which contains specific settings for the program. 
+
