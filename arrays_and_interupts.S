@@ -1,8 +1,6 @@
 ## Pratush  Kc 
-## Link to your recording: 
 ## EECE.3170: Microprocessors I
 ## UMass Lowell
-## Spring 2021 final exam programming problem
 ## You are open to having your design of the solution based on your interpretation
 /*****
   TODO:
